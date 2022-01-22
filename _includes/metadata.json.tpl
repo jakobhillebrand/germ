@@ -28,7 +28,6 @@
                 "instapaper": false,
                 "twitter": false,
                 "vk": false,
-                "weibo": false
             },
             "theme-default": {
                 "showLevel": false,
