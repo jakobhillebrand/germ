@@ -76,15 +76,6 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
         }
 
         // Direct actions to share
-        $.each(SITES, function(sideId, site) {
-            if (!opts[sideId]) return;
-
-            gitbook.toolbar.createButton({
-                icon: site.icon,
-                label: site.text,
-                position: 'right',
-                onClick: site.onClick
-            });
-        });
+        
     });
 });
