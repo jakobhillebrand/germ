@@ -1,16 +1,16 @@
 # Configurations
 title:            Jekyll Gitbook
 longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+author:           Jakob Hillebrand
+email:            jakobhillebrand2001@gmail.com
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://jakobhillebrand.github.io'
+baseurl:          '/germ'
 rss:              RSS
 
 toc:
@@ -35,7 +35,7 @@ syntax_highlighter_style: colorful
 markdown_ext:     markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:        /:categories/:year-:month-:day-:title:output_ext
+permalink:        /:categories/:title:output_ext
 
 exclude:
   - _drafts

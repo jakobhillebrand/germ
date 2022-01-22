@@ -12,7 +12,7 @@
             "fontsettings": {
                 "family": "sans",
                 "size": 2,
-                "theme": "white"
+                "theme": "hell"
             },
             "highlight": {},
             "livereload": {},
@@ -42,7 +42,7 @@
             }
         },
         "theme": "default",
-        "author": "Tao He",
+        "author": "Jakob Hillebrand",
         "pdf": {
             "pageNumbers": true,
             "fontSize": 12,
