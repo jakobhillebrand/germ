@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
+title:            heiLOGOS
+longtitle:        heiLOGOS
 author:           Jakob Hillebrand
 email:            jakobhillebrand2001@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  desc
 
 version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://jakobhillebrand.github.io'
-baseurl:          '/germ'
+baseurl:          '/heiLOGOS'
 rss:              RSS
 
 toc:

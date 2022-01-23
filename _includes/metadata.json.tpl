@@ -63,7 +63,7 @@
         },
         "variables": {},
         "title": "{{site.title}}",
-        "language": "en",
+        "language": "de",
         "gitbook": "*"
     },
     "file": {
@@ -77,5 +77,5 @@
     },
     "basePath": "{{site.baseurl}}",
     "book": {
-        "language": ""
+        "language": "de"
     }
