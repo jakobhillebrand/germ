@@ -2,6 +2,16 @@
 layout: home
 ---
 
+Ein studentisches Projekt zur ausführlichen Darlegung des Studienfachs Germanistik, entstanden im Rahmen der Universität Heidelberg.
+
+## Das Projekt
+
+Ob man sich nun für die deutsche Philolo
+
+
+
+
+
 Make Jelly site have a GitBook look!
 
 ## Demo
